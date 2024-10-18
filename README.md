@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniket Khare</h1>
-<h3 align="center">A passionate Computer Science Student Exploring Different Technologies</h3>
-
-- 🔭 I’m currently working on [KrishiMitra](https://github.com/hacked-netizen/KrishiMitra)
+<h3 align="center">A passionate Computer Science Graduate Exploring Different Technologies</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
 
