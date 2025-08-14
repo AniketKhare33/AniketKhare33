@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aniket Khare</h1>
-<h3 align="center">A passionate Computer Science Graduate Exploring Different Technologies</h3>
+<h3 align="center"></h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Data Enigeering**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 I’m looking to collaborate on **ETL piplines and Python Automations**
 
-- 💬 Ask me about **Java and Data Structures**
 
 - 📫 How to reach me **aniketkhare26082001@gmail.com**
 
