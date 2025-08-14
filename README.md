@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aniket Khare</h1>
 <h3 align="center"></h3>
 
-- 🌱 I’m currently learning **Data Enigeering**
+- 🌱 I’m currently learning **Data Engineering and Data Warehousing**
 
 - 👯 I’m looking to collaborate on **ETL piplines and Python Automations**
 
